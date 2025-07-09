@@ -5,7 +5,7 @@ Readme
 
 First login to the app | Next login to the app
 --- | ---
-<img src="DrawLogos/draw_logos.gif" width="400" /> | <img src="DrawLogos/draw_logos_2.gif" width="400" />
+![draw_logos_gif](DrawLogos/draw_logos.gif) | ![draw_logos_2_gif](DrawLogos/draw_logos_2.gif)
 ___
 
 ### "Kei Kei Poker" project
